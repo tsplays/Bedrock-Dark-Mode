@@ -1,4 +1,4 @@
-# Bedrock-Dark-Mode
+# ![Image Alt](https://github.com/tsplays/Bedrock-Dark-Mode/blob/2cb7eb55e7a46ed347201d90161a9f249836eceb/Picsart_26-06-16_12-05-20-223.png) Bedrock-Dark-Mode
 Dark Mode for Minecraft Bedrock Edition.
 
 Get Dark Mode in Minecraft Bedrock Edition. Just download the pack and activate in Global Resources, World Resource Packs or Realms.
