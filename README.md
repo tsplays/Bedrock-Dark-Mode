@@ -5,7 +5,7 @@ Get Dark Mode in Minecraft Bedrock Edition. Just download the pack and activate 
 
 Open Source
 
-If you want to use it in your own pack? Feel free to use as this pack is licensed under MIT Licence and source code it available for free on GitHub. Just don't blindly copy the pack and use it for your own benifits. And it would be also nice if you credit me (TsPlaysMCBE). This pack is an updated version of Dark Mode by Offroaders123. That pack was not getting updated and created a gap. I DO NOT try to impersonate someone or use someone's things for my own benifits.
+If you want to use it in your own pack? Feel free to use as this pack is licensed under MIT Licence and source code it available for free on GitHub. Just don't blindly copy the pack and use it for your own benifits. And it would be also nice if you credit me (TsPlaysMCBE). This pack is an updated version of [Dark Mode](https://github.com/Offroaders123/Dark-Mode) by [Offroaders123](https://github.com/Offroaders123). That pack was not getting updated and created a gap. I DO NOT try to impersonate someone or use someone's things for my own benifits.
 
 Features
 
